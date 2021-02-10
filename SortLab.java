@@ -1,9 +1,3 @@
-//**********************
-//* Grant Guernsey     *
-//* Period D           *
-//* Lab 7.1            *
-//**********************
-
 import java.util.Random;
 
 public class SortLab
